@@ -1,4 +1,5 @@
-# link-checker
+# link-checker  <img src="https://i.imgur.com/7HcdYSd.png" data-canonical-src="https://i.imgur.com/7HcdYSd.png" width="25" height="25" />
+
 
 When you're reading an article or a blog post, you often wonder whether clicking on a particular link would redirect you to new tab or the same tab. When you click on a link which would open in the same tab, your whole context would get lost. This add-on helps you to determine whether a particular link will open in new tab or the same tab.
 
@@ -16,8 +17,8 @@ Clicking again removes the CSS using [tabs.removeCSS](https://developer.mozilla.
 ## What it shows
 
 * A toggle switch to apply or remove this add-on.
-* If applied, it would show the below icon when you hover on the link if it were to open in a new tab.
-![](https://i.imgur.com/7HcdYSd.png =50x50)
+* If applied, it would show  the below icon when you hover on the link if it were to open in a new tab.
+ <img src="https://i.imgur.com/7HcdYSd.png" data-canonical-src="https://i.imgur.com/7HcdYSd.png" width="50" height="50" />
 
 ## Demo
 
