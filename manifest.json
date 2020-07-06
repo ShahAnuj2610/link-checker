@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "apply-link-checker",
   "version": "1.0",
-  "homepage_url": "https://github.com/ShahAnuj2610/tree/master/link-checker",
+  "homepage_url": "https://github.com/ShahAnuj2610/link-checker/tree/master",
 
   "background": {
     "scripts": ["browser-polyfill.js", "background.js"]
